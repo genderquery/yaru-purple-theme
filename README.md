@@ -2,6 +2,8 @@
 
 Based on https://github.com/ubuntu/yaru/
 
+![screenshot](https://gitlab.com/genderquery/yaru-purple-theme/raw/master/docs/purple.png)
+
 # Building and Installing
 
 ## Using pdebuild on Debian-based distros
